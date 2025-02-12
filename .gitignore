@@ -1,0 +1,14 @@
+*.zip
+*.png
+*.gif
+*.npz
+*.pdf
+*.txt
+*.csv
+*.data
+*.idx3-ubyte_
+*.idx1-ubyte_
+*.idx3-ubyte
+*.idx1-ubyte
+LAB7/tsne_python/
+LAB7/Yale_Face_Database/
